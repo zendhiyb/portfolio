@@ -1,6 +1,6 @@
 ## Portfolio  
 
-Portfolio adalah sebuah website pribadi yang menampilkan profil, keterampilan, dan proyek-proyek yang pernah dikerjakan. Website ini dibuat dengan desain **modern, simple, dan minimalis**, sehingga memberikan kesan profesional serta mudah diakses melalui berbagai perangkat.
+Website portfolio ini menampilkan profil, keterampilan, dan proyek-proyek yang pernah dikerjakan. Dibangun dengan desain **modern, simple, dan minimalis**, sehingga memberikan kesan profesional serta mudah diakses melalui berbagai perangkat. 
 
 🔗 **Demo Live**: [https://zendhiyb.github.io/portfolio/](https://zendhiyb.github.io/portfolio/)  
 
